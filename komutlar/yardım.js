@@ -8,7 +8,7 @@ exports.run = (client, message, params) => {
   .setTitle("Yardım Listesi")
   .setDescription('')
   .setColor('RANDOM')
-  .addField("**Tüm Komutları Bir Araya Topladım:**", `**https://hastebin.com/upagicisap.pl**`)
+  .addField("**Tüm Komutları Bir Araya Topladım:**", `**https://hastebin.com/iveqecibow.pl**`)
   .addField("**Yapımcım:**", " **Recep | Fides#9190** ")
   if (!params[0]) {
     const commandNames = Array.from(client.commands.keys());
